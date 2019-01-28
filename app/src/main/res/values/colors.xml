@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_level_1">#388E3C</color>
+    <color name="color_level_2">#B9F6CA</color>
+    <color name="color_level_3">#FFF176</color>
+    <color name="color_level_4">#FB8C00</color>
+    <color name="color_level_5">#E53935</color>
+    <color name="color_level_6">#880E4F</color>
+    <color name="color_level_default">#FFFFFF</color>
+    <color name="color_level_na">#EEEEEE</color>
+
+</resources>

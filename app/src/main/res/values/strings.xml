@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OpenAir</string>
+    <string name="action_bar_location_activity">Locations</string>
+    <string name="action_bar_measurement_activity">Details</string>
+    <string name="btn_flash">Skip</string>
+    <string name="btn_submit">Click to see</string>
+    <string name="btn_detail_measurement">Refresh</string>
+    <string name="tv_choose_country">Country:</string>
+    <string name="tv_choose_city">City:</string>
+    <string name="tv_title_main">open air</string>
+    <string name="tv_title_location">Location</string>
+    <string name="location_listitem_name">Name</string>
+    <string name="location_listitem_date">Last updated</string>
+
+
+</resources>

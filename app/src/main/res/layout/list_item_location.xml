@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_border"
+    android:paddingBottom="15dp">
+    <TextView
+        android:id="@+id/tv_location_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:text="text_name"
+
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+
+        android:gravity="center"
+
+        android:layout_weight="1"
+        android:text="text_time"
+        android:textSize="20sp"/>
+
+</LinearLayout>
